@@ -1,7 +1,7 @@
 #include<stdio.h>
 void mod(void)
 {
-        float n1,n2;
+        int n1,n2;
         printf("Enter the first number:\n");
         scanf("%f",&n1);
 
